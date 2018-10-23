@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Friendly Chat Admin</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="send_button_label">Send</string>
+    <string name="http">http://</string>
+    <string name="download">Download</string>
+    <string name="write_file">This app needs access to your file storage so that it can write files.</string>
+
+</resources>
